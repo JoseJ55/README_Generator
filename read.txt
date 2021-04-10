@@ -1,1 +1,17 @@
-my pet name is 50 and age is 1.
+"STRINGS USED FOR TESTING"
+
+README Generator(Test)
+
+This project generates a read me for the user after they input answer when prompted.
+
+You install this by downloading the files from the github page.
+
+Using the terminal for the current directory you type 'node index.js' then answer the questions when prompted.
+
+Try to help by pushing what you have added and someone will look at it and if it imporve things or helps other they it will be commmited.
+
+Currently test is not avaliable, but when added it will be in the test file.
+
+https://github.com/JoseJ55
+
+josej@gmail.com
