@@ -8,3 +8,7 @@ In order to use this you need to clone the reposetory and gor to the file. Once 
 
 ## Links
 GitHub Repository: [https://github.com/JoseJ55/README_Generator](https://github.com/JoseJ55/README_Generator)
+
+Video: [https://drive.google.com/file/d/1Oj6J-gQ-xYhgX3jflGwspFgVakwNSQMR/view?usp=sharing](https://drive.google.com/file/d/1Oj6J-gQ-xYhgX3jflGwspFgVakwNSQMR/view?usp=sharing)
+
+README picture: [https://drive.google.com/file/d/1OXtiRBMcTeI6DMeO5QvDX1vsD4oPOREp/view?usp=sharing](https://drive.google.com/file/d/1OXtiRBMcTeI6DMeO5QvDX1vsD4oPOREp/view?usp=sharing)

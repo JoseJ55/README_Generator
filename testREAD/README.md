@@ -1,4 +1,4 @@
-# F, L1
+# README Generator(Test), L2
 
 ## Table of Context
 [Description](#description)
@@ -16,28 +16,28 @@
 [License](#license)
 
 ## Description
-This project r.
+This project This project generates a read me for the user after they input answer when prompted..
 
 ## Installation
 This is how to install the project:
 
-d.
+You install this by downloading the files from the github page..
 
 ## Use
-To use this you need to c.
+To use this you need to Using the terminal for the current directory you type 'node index.js' then answer the questions when prompted..
 
 ## Contribution Guidlines
-g
+Try to help by pushing what you have added and someone will look at it and if it imporve things or helps other they it will be commmited.
 
 ## Test
 To test this porject you need to:
 
-d
+Currently test is not avaliable, but when added it will be in the test file.
 
 ## Questions
-GitHub link: [g](g)
+GitHub link: [https://github.com/JoseJ55](https://github.com/JoseJ55)
 
-Email: [f](f)
+Email: [josej@gmail.com](josej@gmail.com)
 
 ## License
-License1: This is the first and basic license.
+License2: This is the second and better license.
